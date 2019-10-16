@@ -1,4 +1,5 @@
 # SamJUK/php-duplicate-images
+PHP cli script to sort duplicate images into separate folders
 
 Source: https://github.com/SamJUK/php-duplicate-images
 
