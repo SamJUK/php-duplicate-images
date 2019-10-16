@@ -1,0 +1,20 @@
+#######################
+# Application Ignores #
+#######################
+images/dups/*
+!images/dups/.gitkeep
+images/src/*
+!images/src/.gitkeep
+images/unique/*
+!images/unique/.gitkeep
+
+archives/*
+!archives/.gitkeep
+
+
+##################
+# Editor Ignores #
+##################
+.idea
+.vs_code
+.atom
